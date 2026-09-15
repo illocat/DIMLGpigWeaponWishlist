@@ -9961,7 +9961,38 @@ dimwishlist:item=2084878005&perks=
 //notes: 评价排名：97；特殊用途：本身伤害合格，爆头击杀隐身偶尔能派上用场
 dimwishlist:item=2973900274&perks=
 
+//米达多功能
+//notes: PVP
+dimwishlist:item=1331482397&perks=
+
+//隼月
+//notes: PVP
+dimwishlist:item=3856705927&perks=
+
+//黑桃A
+//notes: PVP
+dimwishlist:item=347366834&perks=
+
+//玉兔
+//notes: PVP
+dimwishlist:item=3844694310&perks=
+
+//无时辩解
+//notes: PVP
+dimwishlist:item=1594120904&perks=
+
+//警惕羽翼
+//notes: PVP
+dimwishlist:item=3628991659&perks=
+
+//冷冻状态77K
+//notes: PVP
+dimwishlist:item=603721696&perks=
+
+//引力子尖刺
+//notes: PVP
+dimwishlist:item=648595258&perks=
 
 
 
-已校对2026.09.09
+已校对2026.09.15
